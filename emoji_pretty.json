@@ -1456,7 +1456,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "261D-1F3FB": {
+            "1F3FB": {
                 "unified": "261D-1F3FB",
                 "image": "261d-1f3fb.png",
                 "sheet_x": 1,
@@ -1468,7 +1468,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "261D-1F3FC": {
+            "1F3FC": {
                 "unified": "261D-1F3FC",
                 "image": "261d-1f3fc.png",
                 "sheet_x": 1,
@@ -1480,7 +1480,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "261D-1F3FD": {
+            "1F3FD": {
                 "unified": "261D-1F3FD",
                 "image": "261d-1f3fd.png",
                 "sheet_x": 1,
@@ -1492,7 +1492,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "261D-1F3FE": {
+            "1F3FE": {
                 "unified": "261D-1F3FE",
                 "image": "261d-1f3fe.png",
                 "sheet_x": 1,
@@ -1504,7 +1504,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "261D-1F3FF": {
+            "1F3FF": {
                 "unified": "261D-1F3FF",
                 "image": "261d-1f3ff.png",
                 "sheet_x": 1,
@@ -3395,7 +3395,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "26F9-1F3FB": {
+            "1F3FB": {
                 "unified": "26F9-1F3FB",
                 "image": "26f9-1f3fb.png",
                 "sheet_x": 2,
@@ -3407,7 +3407,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "26F9-1F3FC": {
+            "1F3FC": {
                 "unified": "26F9-1F3FC",
                 "image": "26f9-1f3fc.png",
                 "sheet_x": 2,
@@ -3419,7 +3419,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "26F9-1F3FD": {
+            "1F3FD": {
                 "unified": "26F9-1F3FD",
                 "image": "26f9-1f3fd.png",
                 "sheet_x": 2,
@@ -3431,7 +3431,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "26F9-1F3FE": {
+            "1F3FE": {
                 "unified": "26F9-1F3FE",
                 "image": "26f9-1f3fe.png",
                 "sheet_x": 2,
@@ -3443,7 +3443,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "26F9-1F3FF": {
+            "1F3FF": {
                 "unified": "26F9-1F3FF",
                 "image": "26f9-1f3ff.png",
                 "sheet_x": 2,
@@ -3654,7 +3654,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "270A-1F3FB": {
+            "1F3FB": {
                 "unified": "270A-1F3FB",
                 "image": "270a-1f3fb.png",
                 "sheet_x": 2,
@@ -3666,7 +3666,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270A-1F3FC": {
+            "1F3FC": {
                 "unified": "270A-1F3FC",
                 "image": "270a-1f3fc.png",
                 "sheet_x": 2,
@@ -3678,7 +3678,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270A-1F3FD": {
+            "1F3FD": {
                 "unified": "270A-1F3FD",
                 "image": "270a-1f3fd.png",
                 "sheet_x": 2,
@@ -3690,7 +3690,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270A-1F3FE": {
+            "1F3FE": {
                 "unified": "270A-1F3FE",
                 "image": "270a-1f3fe.png",
                 "sheet_x": 2,
@@ -3702,7 +3702,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270A-1F3FF": {
+            "1F3FF": {
                 "unified": "270A-1F3FF",
                 "image": "270a-1f3ff.png",
                 "sheet_x": 2,
@@ -3745,7 +3745,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "270B-1F3FB": {
+            "1F3FB": {
                 "unified": "270B-1F3FB",
                 "image": "270b-1f3fb.png",
                 "sheet_x": 2,
@@ -3757,7 +3757,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270B-1F3FC": {
+            "1F3FC": {
                 "unified": "270B-1F3FC",
                 "image": "270b-1f3fc.png",
                 "sheet_x": 2,
@@ -3769,7 +3769,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270B-1F3FD": {
+            "1F3FD": {
                 "unified": "270B-1F3FD",
                 "image": "270b-1f3fd.png",
                 "sheet_x": 2,
@@ -3781,7 +3781,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270B-1F3FE": {
+            "1F3FE": {
                 "unified": "270B-1F3FE",
                 "image": "270b-1f3fe.png",
                 "sheet_x": 2,
@@ -3793,7 +3793,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270B-1F3FF": {
+            "1F3FF": {
                 "unified": "270B-1F3FF",
                 "image": "270b-1f3ff.png",
                 "sheet_x": 2,
@@ -3835,7 +3835,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "270C-1F3FB": {
+            "1F3FB": {
                 "unified": "270C-1F3FB",
                 "image": "270c-1f3fb.png",
                 "sheet_x": 3,
@@ -3847,7 +3847,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270C-1F3FC": {
+            "1F3FC": {
                 "unified": "270C-1F3FC",
                 "image": "270c-1f3fc.png",
                 "sheet_x": 3,
@@ -3859,7 +3859,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270C-1F3FD": {
+            "1F3FD": {
                 "unified": "270C-1F3FD",
                 "image": "270c-1f3fd.png",
                 "sheet_x": 3,
@@ -3871,7 +3871,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270C-1F3FE": {
+            "1F3FE": {
                 "unified": "270C-1F3FE",
                 "image": "270c-1f3fe.png",
                 "sheet_x": 3,
@@ -3883,7 +3883,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "270C-1F3FF": {
+            "1F3FF": {
                 "unified": "270C-1F3FF",
                 "image": "270c-1f3ff.png",
                 "sheet_x": 3,
@@ -3925,7 +3925,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "270D-1F3FB": {
+            "1F3FB": {
                 "unified": "270D-1F3FB",
                 "image": "270d-1f3fb.png",
                 "sheet_x": 3,
@@ -3937,7 +3937,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "270D-1F3FC": {
+            "1F3FC": {
                 "unified": "270D-1F3FC",
                 "image": "270d-1f3fc.png",
                 "sheet_x": 3,
@@ -3949,7 +3949,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "270D-1F3FD": {
+            "1F3FD": {
                 "unified": "270D-1F3FD",
                 "image": "270d-1f3fd.png",
                 "sheet_x": 3,
@@ -3961,7 +3961,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "270D-1F3FE": {
+            "1F3FE": {
                 "unified": "270D-1F3FE",
                 "image": "270d-1f3fe.png",
                 "sheet_x": 3,
@@ -3973,7 +3973,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "270D-1F3FF": {
+            "1F3FF": {
                 "unified": "270D-1F3FF",
                 "image": "270d-1f3ff.png",
                 "sheet_x": 3,
@@ -9652,7 +9652,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F385-1F3FB": {
+            "1F3FB": {
                 "unified": "1F385-1F3FB",
                 "image": "1f385-1f3fb.png",
                 "sheet_x": 7,
@@ -9664,7 +9664,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F385-1F3FC": {
+            "1F3FC": {
                 "unified": "1F385-1F3FC",
                 "image": "1f385-1f3fc.png",
                 "sheet_x": 7,
@@ -9676,7 +9676,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F385-1F3FD": {
+            "1F3FD": {
                 "unified": "1F385-1F3FD",
                 "image": "1f385-1f3fd.png",
                 "sheet_x": 7,
@@ -9688,7 +9688,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F385-1F3FE": {
+            "1F3FE": {
                 "unified": "1F385-1F3FE",
                 "image": "1f385-1f3fe.png",
                 "sheet_x": 7,
@@ -9700,7 +9700,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F385-1F3FF": {
+            "1F3FF": {
                 "unified": "1F385-1F3FF",
                 "image": "1f385-1f3ff.png",
                 "sheet_x": 7,
@@ -11282,7 +11282,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F3C2-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3C2-1F3FB",
                 "image": "1f3c2-1f3fb.png",
                 "sheet_x": 8,
@@ -11294,7 +11294,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C2-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3C2-1F3FC",
                 "image": "1f3c2-1f3fc.png",
                 "sheet_x": 8,
@@ -11306,7 +11306,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C2-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3C2-1F3FD",
                 "image": "1f3c2-1f3fd.png",
                 "sheet_x": 8,
@@ -11318,7 +11318,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C2-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3C2-1F3FE",
                 "image": "1f3c2-1f3fe.png",
                 "sheet_x": 8,
@@ -11330,7 +11330,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C2-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3C2-1F3FF",
                 "image": "1f3c2-1f3ff.png",
                 "sheet_x": 8,
@@ -11373,7 +11373,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F3C3-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3C3-1F3FB",
                 "image": "1f3c3-1f3fb.png",
                 "sheet_x": 8,
@@ -11385,7 +11385,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C3-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3C3-1F3FC",
                 "image": "1f3c3-1f3fc.png",
                 "sheet_x": 8,
@@ -11397,7 +11397,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C3-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3C3-1F3FD",
                 "image": "1f3c3-1f3fd.png",
                 "sheet_x": 8,
@@ -11409,7 +11409,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C3-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3C3-1F3FE",
                 "image": "1f3c3-1f3fe.png",
                 "sheet_x": 8,
@@ -11421,7 +11421,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C3-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3C3-1F3FF",
                 "image": "1f3c3-1f3ff.png",
                 "sheet_x": 8,
@@ -11463,7 +11463,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F3C4-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3C4-1F3FB",
                 "image": "1f3c4-1f3fb.png",
                 "sheet_x": 8,
@@ -11475,7 +11475,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C4-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3C4-1F3FC",
                 "image": "1f3c4-1f3fc.png",
                 "sheet_x": 8,
@@ -11487,7 +11487,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C4-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3C4-1F3FD",
                 "image": "1f3c4-1f3fd.png",
                 "sheet_x": 8,
@@ -11499,7 +11499,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C4-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3C4-1F3FE",
                 "image": "1f3c4-1f3fe.png",
                 "sheet_x": 8,
@@ -11511,7 +11511,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3C4-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3C4-1F3FF",
                 "image": "1f3c4-1f3ff.png",
                 "sheet_x": 8,
@@ -11609,7 +11609,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F3C7-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3C7-1F3FB",
                 "image": "1f3c7-1f3fb.png",
                 "sheet_x": 9,
@@ -11621,7 +11621,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C7-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3C7-1F3FC",
                 "image": "1f3c7-1f3fc.png",
                 "sheet_x": 9,
@@ -11633,7 +11633,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C7-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3C7-1F3FD",
                 "image": "1f3c7-1f3fd.png",
                 "sheet_x": 9,
@@ -11645,7 +11645,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C7-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3C7-1F3FE",
                 "image": "1f3c7-1f3fe.png",
                 "sheet_x": 9,
@@ -11657,7 +11657,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3C7-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3C7-1F3FF",
                 "image": "1f3c7-1f3ff.png",
                 "sheet_x": 9,
@@ -11755,7 +11755,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F3CA-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3CA-1F3FB",
                 "image": "1f3ca-1f3fb.png",
                 "sheet_x": 9,
@@ -11767,7 +11767,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3CA-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3CA-1F3FC",
                 "image": "1f3ca-1f3fc.png",
                 "sheet_x": 9,
@@ -11779,7 +11779,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3CA-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3CA-1F3FD",
                 "image": "1f3ca-1f3fd.png",
                 "sheet_x": 9,
@@ -11791,7 +11791,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3CA-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3CA-1F3FE",
                 "image": "1f3ca-1f3fe.png",
                 "sheet_x": 9,
@@ -11803,7 +11803,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F3CA-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3CA-1F3FF",
                 "image": "1f3ca-1f3ff.png",
                 "sheet_x": 9,
@@ -11845,7 +11845,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F3CB-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3CB-1F3FB",
                 "image": "1f3cb-1f3fb.png",
                 "sheet_x": 9,
@@ -11857,7 +11857,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CB-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3CB-1F3FC",
                 "image": "1f3cb-1f3fc.png",
                 "sheet_x": 9,
@@ -11869,7 +11869,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CB-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3CB-1F3FD",
                 "image": "1f3cb-1f3fd.png",
                 "sheet_x": 9,
@@ -11881,7 +11881,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CB-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3CB-1F3FE",
                 "image": "1f3cb-1f3fe.png",
                 "sheet_x": 9,
@@ -11893,7 +11893,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CB-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3CB-1F3FF",
                 "image": "1f3cb-1f3ff.png",
                 "sheet_x": 9,
@@ -11935,7 +11935,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F3CC-1F3FB": {
+            "1F3FB": {
                 "unified": "1F3CC-1F3FB",
                 "image": "1f3cc-1f3fb.png",
                 "sheet_x": 9,
@@ -11947,7 +11947,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CC-1F3FC": {
+            "1F3FC": {
                 "unified": "1F3CC-1F3FC",
                 "image": "1f3cc-1f3fc.png",
                 "sheet_x": 9,
@@ -11959,7 +11959,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CC-1F3FD": {
+            "1F3FD": {
                 "unified": "1F3CC-1F3FD",
                 "image": "1f3cc-1f3fd.png",
                 "sheet_x": 9,
@@ -11971,7 +11971,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CC-1F3FE": {
+            "1F3FE": {
                 "unified": "1F3CC-1F3FE",
                 "image": "1f3cc-1f3fe.png",
                 "sheet_x": 9,
@@ -11983,7 +11983,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F3CC-1F3FF": {
+            "1F3FF": {
                 "unified": "1F3CC-1F3FF",
                 "image": "1f3cc-1f3ff.png",
                 "sheet_x": 9,
@@ -15223,7 +15223,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F442-1F3FB": {
+            "1F3FB": {
                 "unified": "1F442-1F3FB",
                 "image": "1f442-1f3fb.png",
                 "sheet_x": 11,
@@ -15235,7 +15235,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F442-1F3FC": {
+            "1F3FC": {
                 "unified": "1F442-1F3FC",
                 "image": "1f442-1f3fc.png",
                 "sheet_x": 11,
@@ -15247,7 +15247,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F442-1F3FD": {
+            "1F3FD": {
                 "unified": "1F442-1F3FD",
                 "image": "1f442-1f3fd.png",
                 "sheet_x": 11,
@@ -15259,7 +15259,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F442-1F3FE": {
+            "1F3FE": {
                 "unified": "1F442-1F3FE",
                 "image": "1f442-1f3fe.png",
                 "sheet_x": 11,
@@ -15271,7 +15271,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F442-1F3FF": {
+            "1F3FF": {
                 "unified": "1F442-1F3FF",
                 "image": "1f442-1f3ff.png",
                 "sheet_x": 11,
@@ -15313,7 +15313,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F443-1F3FB": {
+            "1F3FB": {
                 "unified": "1F443-1F3FB",
                 "image": "1f443-1f3fb.png",
                 "sheet_x": 12,
@@ -15325,7 +15325,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F443-1F3FC": {
+            "1F3FC": {
                 "unified": "1F443-1F3FC",
                 "image": "1f443-1f3fc.png",
                 "sheet_x": 12,
@@ -15337,7 +15337,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F443-1F3FD": {
+            "1F3FD": {
                 "unified": "1F443-1F3FD",
                 "image": "1f443-1f3fd.png",
                 "sheet_x": 12,
@@ -15349,7 +15349,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F443-1F3FE": {
+            "1F3FE": {
                 "unified": "1F443-1F3FE",
                 "image": "1f443-1f3fe.png",
                 "sheet_x": 12,
@@ -15361,7 +15361,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F443-1F3FF": {
+            "1F3FF": {
                 "unified": "1F443-1F3FF",
                 "image": "1f443-1f3ff.png",
                 "sheet_x": 12,
@@ -15459,7 +15459,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F446-1F3FB": {
+            "1F3FB": {
                 "unified": "1F446-1F3FB",
                 "image": "1f446-1f3fb.png",
                 "sheet_x": 12,
@@ -15471,7 +15471,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F446-1F3FC": {
+            "1F3FC": {
                 "unified": "1F446-1F3FC",
                 "image": "1f446-1f3fc.png",
                 "sheet_x": 12,
@@ -15483,7 +15483,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F446-1F3FD": {
+            "1F3FD": {
                 "unified": "1F446-1F3FD",
                 "image": "1f446-1f3fd.png",
                 "sheet_x": 12,
@@ -15495,7 +15495,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F446-1F3FE": {
+            "1F3FE": {
                 "unified": "1F446-1F3FE",
                 "image": "1f446-1f3fe.png",
                 "sheet_x": 12,
@@ -15507,7 +15507,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F446-1F3FF": {
+            "1F3FF": {
                 "unified": "1F446-1F3FF",
                 "image": "1f446-1f3ff.png",
                 "sheet_x": 12,
@@ -15549,7 +15549,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F447-1F3FB": {
+            "1F3FB": {
                 "unified": "1F447-1F3FB",
                 "image": "1f447-1f3fb.png",
                 "sheet_x": 12,
@@ -15561,7 +15561,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F447-1F3FC": {
+            "1F3FC": {
                 "unified": "1F447-1F3FC",
                 "image": "1f447-1f3fc.png",
                 "sheet_x": 12,
@@ -15573,7 +15573,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F447-1F3FD": {
+            "1F3FD": {
                 "unified": "1F447-1F3FD",
                 "image": "1f447-1f3fd.png",
                 "sheet_x": 12,
@@ -15585,7 +15585,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F447-1F3FE": {
+            "1F3FE": {
                 "unified": "1F447-1F3FE",
                 "image": "1f447-1f3fe.png",
                 "sheet_x": 12,
@@ -15597,7 +15597,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F447-1F3FF": {
+            "1F3FF": {
                 "unified": "1F447-1F3FF",
                 "image": "1f447-1f3ff.png",
                 "sheet_x": 12,
@@ -15639,7 +15639,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F448-1F3FB": {
+            "1F3FB": {
                 "unified": "1F448-1F3FB",
                 "image": "1f448-1f3fb.png",
                 "sheet_x": 12,
@@ -15651,7 +15651,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F448-1F3FC": {
+            "1F3FC": {
                 "unified": "1F448-1F3FC",
                 "image": "1f448-1f3fc.png",
                 "sheet_x": 12,
@@ -15663,7 +15663,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F448-1F3FD": {
+            "1F3FD": {
                 "unified": "1F448-1F3FD",
                 "image": "1f448-1f3fd.png",
                 "sheet_x": 12,
@@ -15675,7 +15675,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F448-1F3FE": {
+            "1F3FE": {
                 "unified": "1F448-1F3FE",
                 "image": "1f448-1f3fe.png",
                 "sheet_x": 12,
@@ -15687,7 +15687,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F448-1F3FF": {
+            "1F3FF": {
                 "unified": "1F448-1F3FF",
                 "image": "1f448-1f3ff.png",
                 "sheet_x": 12,
@@ -15729,7 +15729,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F449-1F3FB": {
+            "1F3FB": {
                 "unified": "1F449-1F3FB",
                 "image": "1f449-1f3fb.png",
                 "sheet_x": 12,
@@ -15741,7 +15741,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F449-1F3FC": {
+            "1F3FC": {
                 "unified": "1F449-1F3FC",
                 "image": "1f449-1f3fc.png",
                 "sheet_x": 12,
@@ -15753,7 +15753,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F449-1F3FD": {
+            "1F3FD": {
                 "unified": "1F449-1F3FD",
                 "image": "1f449-1f3fd.png",
                 "sheet_x": 12,
@@ -15765,7 +15765,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F449-1F3FE": {
+            "1F3FE": {
                 "unified": "1F449-1F3FE",
                 "image": "1f449-1f3fe.png",
                 "sheet_x": 12,
@@ -15777,7 +15777,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F449-1F3FF": {
+            "1F3FF": {
                 "unified": "1F449-1F3FF",
                 "image": "1f449-1f3ff.png",
                 "sheet_x": 12,
@@ -15820,7 +15820,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44A-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44A-1F3FB",
                 "image": "1f44a-1f3fb.png",
                 "sheet_x": 12,
@@ -15832,7 +15832,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44A-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44A-1F3FC",
                 "image": "1f44a-1f3fc.png",
                 "sheet_x": 12,
@@ -15844,7 +15844,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44A-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44A-1F3FD",
                 "image": "1f44a-1f3fd.png",
                 "sheet_x": 12,
@@ -15856,7 +15856,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44A-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44A-1F3FE",
                 "image": "1f44a-1f3fe.png",
                 "sheet_x": 12,
@@ -15868,7 +15868,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44A-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44A-1F3FF",
                 "image": "1f44a-1f3ff.png",
                 "sheet_x": 12,
@@ -15910,7 +15910,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44B-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44B-1F3FB",
                 "image": "1f44b-1f3fb.png",
                 "sheet_x": 12,
@@ -15922,7 +15922,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44B-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44B-1F3FC",
                 "image": "1f44b-1f3fc.png",
                 "sheet_x": 12,
@@ -15934,7 +15934,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44B-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44B-1F3FD",
                 "image": "1f44b-1f3fd.png",
                 "sheet_x": 12,
@@ -15946,7 +15946,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44B-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44B-1F3FE",
                 "image": "1f44b-1f3fe.png",
                 "sheet_x": 12,
@@ -15958,7 +15958,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44B-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44B-1F3FF",
                 "image": "1f44b-1f3ff.png",
                 "sheet_x": 12,
@@ -16000,7 +16000,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44C-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44C-1F3FB",
                 "image": "1f44c-1f3fb.png",
                 "sheet_x": 12,
@@ -16012,7 +16012,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44C-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44C-1F3FC",
                 "image": "1f44c-1f3fc.png",
                 "sheet_x": 12,
@@ -16024,7 +16024,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44C-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44C-1F3FD",
                 "image": "1f44c-1f3fd.png",
                 "sheet_x": 12,
@@ -16036,7 +16036,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44C-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44C-1F3FE",
                 "image": "1f44c-1f3fe.png",
                 "sheet_x": 12,
@@ -16048,7 +16048,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44C-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44C-1F3FF",
                 "image": "1f44c-1f3ff.png",
                 "sheet_x": 12,
@@ -16091,7 +16091,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44D-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44D-1F3FB",
                 "image": "1f44d-1f3fb.png",
                 "sheet_x": 13,
@@ -16103,7 +16103,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44D-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44D-1F3FC",
                 "image": "1f44d-1f3fc.png",
                 "sheet_x": 13,
@@ -16115,7 +16115,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44D-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44D-1F3FD",
                 "image": "1f44d-1f3fd.png",
                 "sheet_x": 13,
@@ -16127,7 +16127,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44D-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44D-1F3FE",
                 "image": "1f44d-1f3fe.png",
                 "sheet_x": 13,
@@ -16139,7 +16139,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44D-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44D-1F3FF",
                 "image": "1f44d-1f3ff.png",
                 "sheet_x": 13,
@@ -16182,7 +16182,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44E-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44E-1F3FB",
                 "image": "1f44e-1f3fb.png",
                 "sheet_x": 13,
@@ -16194,7 +16194,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44E-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44E-1F3FC",
                 "image": "1f44e-1f3fc.png",
                 "sheet_x": 13,
@@ -16206,7 +16206,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44E-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44E-1F3FD",
                 "image": "1f44e-1f3fd.png",
                 "sheet_x": 13,
@@ -16218,7 +16218,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44E-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44E-1F3FE",
                 "image": "1f44e-1f3fe.png",
                 "sheet_x": 13,
@@ -16230,7 +16230,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44E-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44E-1F3FF",
                 "image": "1f44e-1f3ff.png",
                 "sheet_x": 13,
@@ -16272,7 +16272,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F44F-1F3FB": {
+            "1F3FB": {
                 "unified": "1F44F-1F3FB",
                 "image": "1f44f-1f3fb.png",
                 "sheet_x": 13,
@@ -16284,7 +16284,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44F-1F3FC": {
+            "1F3FC": {
                 "unified": "1F44F-1F3FC",
                 "image": "1f44f-1f3fc.png",
                 "sheet_x": 13,
@@ -16296,7 +16296,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44F-1F3FD": {
+            "1F3FD": {
                 "unified": "1F44F-1F3FD",
                 "image": "1f44f-1f3fd.png",
                 "sheet_x": 13,
@@ -16308,7 +16308,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44F-1F3FE": {
+            "1F3FE": {
                 "unified": "1F44F-1F3FE",
                 "image": "1f44f-1f3fe.png",
                 "sheet_x": 13,
@@ -16320,7 +16320,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F44F-1F3FF": {
+            "1F3FF": {
                 "unified": "1F44F-1F3FF",
                 "image": "1f44f-1f3ff.png",
                 "sheet_x": 13,
@@ -16362,7 +16362,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F450-1F3FB": {
+            "1F3FB": {
                 "unified": "1F450-1F3FB",
                 "image": "1f450-1f3fb.png",
                 "sheet_x": 13,
@@ -16374,7 +16374,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F450-1F3FC": {
+            "1F3FC": {
                 "unified": "1F450-1F3FC",
                 "image": "1f450-1f3fc.png",
                 "sheet_x": 13,
@@ -16386,7 +16386,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F450-1F3FD": {
+            "1F3FD": {
                 "unified": "1F450-1F3FD",
                 "image": "1f450-1f3fd.png",
                 "sheet_x": 13,
@@ -16398,7 +16398,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F450-1F3FE": {
+            "1F3FE": {
                 "unified": "1F450-1F3FE",
                 "image": "1f450-1f3fe.png",
                 "sheet_x": 13,
@@ -16410,7 +16410,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F450-1F3FF": {
+            "1F3FF": {
                 "unified": "1F450-1F3FF",
                 "image": "1f450-1f3ff.png",
                 "sheet_x": 13,
@@ -17042,7 +17042,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F466-1F3FB": {
+            "1F3FB": {
                 "unified": "1F466-1F3FB",
                 "image": "1f466-1f3fb.png",
                 "sheet_x": 13,
@@ -17054,7 +17054,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F466-1F3FC": {
+            "1F3FC": {
                 "unified": "1F466-1F3FC",
                 "image": "1f466-1f3fc.png",
                 "sheet_x": 13,
@@ -17066,7 +17066,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F466-1F3FD": {
+            "1F3FD": {
                 "unified": "1F466-1F3FD",
                 "image": "1f466-1f3fd.png",
                 "sheet_x": 13,
@@ -17078,7 +17078,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F466-1F3FE": {
+            "1F3FE": {
                 "unified": "1F466-1F3FE",
                 "image": "1f466-1f3fe.png",
                 "sheet_x": 14,
@@ -17090,7 +17090,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F466-1F3FF": {
+            "1F3FF": {
                 "unified": "1F466-1F3FF",
                 "image": "1f466-1f3ff.png",
                 "sheet_x": 14,
@@ -17132,7 +17132,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F467-1F3FB": {
+            "1F3FB": {
                 "unified": "1F467-1F3FB",
                 "image": "1f467-1f3fb.png",
                 "sheet_x": 14,
@@ -17144,7 +17144,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F467-1F3FC": {
+            "1F3FC": {
                 "unified": "1F467-1F3FC",
                 "image": "1f467-1f3fc.png",
                 "sheet_x": 14,
@@ -17156,7 +17156,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F467-1F3FD": {
+            "1F3FD": {
                 "unified": "1F467-1F3FD",
                 "image": "1f467-1f3fd.png",
                 "sheet_x": 14,
@@ -17168,7 +17168,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F467-1F3FE": {
+            "1F3FE": {
                 "unified": "1F467-1F3FE",
                 "image": "1f467-1f3fe.png",
                 "sheet_x": 14,
@@ -17180,7 +17180,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F467-1F3FF": {
+            "1F3FF": {
                 "unified": "1F467-1F3FF",
                 "image": "1f467-1f3ff.png",
                 "sheet_x": 14,
@@ -17222,7 +17222,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F468-1F3FB": {
+            "1F3FB": {
                 "unified": "1F468-1F3FB",
                 "image": "1f468-1f3fb.png",
                 "sheet_x": 14,
@@ -17234,7 +17234,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F468-1F3FC": {
+            "1F3FC": {
                 "unified": "1F468-1F3FC",
                 "image": "1f468-1f3fc.png",
                 "sheet_x": 14,
@@ -17246,7 +17246,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F468-1F3FD": {
+            "1F3FD": {
                 "unified": "1F468-1F3FD",
                 "image": "1f468-1f3fd.png",
                 "sheet_x": 14,
@@ -17258,7 +17258,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F468-1F3FE": {
+            "1F3FE": {
                 "unified": "1F468-1F3FE",
                 "image": "1f468-1f3fe.png",
                 "sheet_x": 14,
@@ -17270,7 +17270,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F468-1F3FF": {
+            "1F3FF": {
                 "unified": "1F468-1F3FF",
                 "image": "1f468-1f3ff.png",
                 "sheet_x": 14,
@@ -17312,7 +17312,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F469-1F3FB": {
+            "1F3FB": {
                 "unified": "1F469-1F3FB",
                 "image": "1f469-1f3fb.png",
                 "sheet_x": 14,
@@ -17324,7 +17324,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F469-1F3FC": {
+            "1F3FC": {
                 "unified": "1F469-1F3FC",
                 "image": "1f469-1f3fc.png",
                 "sheet_x": 14,
@@ -17336,7 +17336,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F469-1F3FD": {
+            "1F3FD": {
                 "unified": "1F469-1F3FD",
                 "image": "1f469-1f3fd.png",
                 "sheet_x": 14,
@@ -17348,7 +17348,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F469-1F3FE": {
+            "1F3FE": {
                 "unified": "1F469-1F3FE",
                 "image": "1f469-1f3fe.png",
                 "sheet_x": 14,
@@ -17360,7 +17360,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F469-1F3FF": {
+            "1F3FF": {
                 "unified": "1F469-1F3FF",
                 "image": "1f469-1f3ff.png",
                 "sheet_x": 14,
@@ -17516,7 +17516,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F46E-1F3FB": {
+            "1F3FB": {
                 "unified": "1F46E-1F3FB",
                 "image": "1f46e-1f3fb.png",
                 "sheet_x": 14,
@@ -17528,7 +17528,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F46E-1F3FC": {
+            "1F3FC": {
                 "unified": "1F46E-1F3FC",
                 "image": "1f46e-1f3fc.png",
                 "sheet_x": 14,
@@ -17540,7 +17540,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F46E-1F3FD": {
+            "1F3FD": {
                 "unified": "1F46E-1F3FD",
                 "image": "1f46e-1f3fd.png",
                 "sheet_x": 14,
@@ -17552,7 +17552,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F46E-1F3FE": {
+            "1F3FE": {
                 "unified": "1F46E-1F3FE",
                 "image": "1f46e-1f3fe.png",
                 "sheet_x": 14,
@@ -17564,7 +17564,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F46E-1F3FF": {
+            "1F3FF": {
                 "unified": "1F46E-1F3FF",
                 "image": "1f46e-1f3ff.png",
                 "sheet_x": 14,
@@ -17634,7 +17634,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F470-1F3FB": {
+            "1F3FB": {
                 "unified": "1F470-1F3FB",
                 "image": "1f470-1f3fb.png",
                 "sheet_x": 14,
@@ -17646,7 +17646,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F470-1F3FC": {
+            "1F3FC": {
                 "unified": "1F470-1F3FC",
                 "image": "1f470-1f3fc.png",
                 "sheet_x": 14,
@@ -17658,7 +17658,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F470-1F3FD": {
+            "1F3FD": {
                 "unified": "1F470-1F3FD",
                 "image": "1f470-1f3fd.png",
                 "sheet_x": 14,
@@ -17670,7 +17670,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F470-1F3FE": {
+            "1F3FE": {
                 "unified": "1F470-1F3FE",
                 "image": "1f470-1f3fe.png",
                 "sheet_x": 14,
@@ -17682,7 +17682,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F470-1F3FF": {
+            "1F3FF": {
                 "unified": "1F470-1F3FF",
                 "image": "1f470-1f3ff.png",
                 "sheet_x": 14,
@@ -17724,7 +17724,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F471-1F3FB": {
+            "1F3FB": {
                 "unified": "1F471-1F3FB",
                 "image": "1f471-1f3fb.png",
                 "sheet_x": 14,
@@ -17736,7 +17736,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F471-1F3FC": {
+            "1F3FC": {
                 "unified": "1F471-1F3FC",
                 "image": "1f471-1f3fc.png",
                 "sheet_x": 14,
@@ -17748,7 +17748,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F471-1F3FD": {
+            "1F3FD": {
                 "unified": "1F471-1F3FD",
                 "image": "1f471-1f3fd.png",
                 "sheet_x": 14,
@@ -17760,7 +17760,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F471-1F3FE": {
+            "1F3FE": {
                 "unified": "1F471-1F3FE",
                 "image": "1f471-1f3fe.png",
                 "sheet_x": 14,
@@ -17772,7 +17772,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F471-1F3FF": {
+            "1F3FF": {
                 "unified": "1F471-1F3FF",
                 "image": "1f471-1f3ff.png",
                 "sheet_x": 14,
@@ -17814,7 +17814,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F472-1F3FB": {
+            "1F3FB": {
                 "unified": "1F472-1F3FB",
                 "image": "1f472-1f3fb.png",
                 "sheet_x": 14,
@@ -17826,7 +17826,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F472-1F3FC": {
+            "1F3FC": {
                 "unified": "1F472-1F3FC",
                 "image": "1f472-1f3fc.png",
                 "sheet_x": 14,
@@ -17838,7 +17838,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F472-1F3FD": {
+            "1F3FD": {
                 "unified": "1F472-1F3FD",
                 "image": "1f472-1f3fd.png",
                 "sheet_x": 14,
@@ -17850,7 +17850,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F472-1F3FE": {
+            "1F3FE": {
                 "unified": "1F472-1F3FE",
                 "image": "1f472-1f3fe.png",
                 "sheet_x": 14,
@@ -17862,7 +17862,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F472-1F3FF": {
+            "1F3FF": {
                 "unified": "1F472-1F3FF",
                 "image": "1f472-1f3ff.png",
                 "sheet_x": 14,
@@ -17904,7 +17904,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F473-1F3FB": {
+            "1F3FB": {
                 "unified": "1F473-1F3FB",
                 "image": "1f473-1f3fb.png",
                 "sheet_x": 15,
@@ -17916,7 +17916,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F473-1F3FC": {
+            "1F3FC": {
                 "unified": "1F473-1F3FC",
                 "image": "1f473-1f3fc.png",
                 "sheet_x": 15,
@@ -17928,7 +17928,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F473-1F3FD": {
+            "1F3FD": {
                 "unified": "1F473-1F3FD",
                 "image": "1f473-1f3fd.png",
                 "sheet_x": 15,
@@ -17940,7 +17940,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F473-1F3FE": {
+            "1F3FE": {
                 "unified": "1F473-1F3FE",
                 "image": "1f473-1f3fe.png",
                 "sheet_x": 15,
@@ -17952,7 +17952,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F473-1F3FF": {
+            "1F3FF": {
                 "unified": "1F473-1F3FF",
                 "image": "1f473-1f3ff.png",
                 "sheet_x": 15,
@@ -17994,7 +17994,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F474-1F3FB": {
+            "1F3FB": {
                 "unified": "1F474-1F3FB",
                 "image": "1f474-1f3fb.png",
                 "sheet_x": 15,
@@ -18006,7 +18006,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F474-1F3FC": {
+            "1F3FC": {
                 "unified": "1F474-1F3FC",
                 "image": "1f474-1f3fc.png",
                 "sheet_x": 15,
@@ -18018,7 +18018,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F474-1F3FD": {
+            "1F3FD": {
                 "unified": "1F474-1F3FD",
                 "image": "1f474-1f3fd.png",
                 "sheet_x": 15,
@@ -18030,7 +18030,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F474-1F3FE": {
+            "1F3FE": {
                 "unified": "1F474-1F3FE",
                 "image": "1f474-1f3fe.png",
                 "sheet_x": 15,
@@ -18042,7 +18042,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F474-1F3FF": {
+            "1F3FF": {
                 "unified": "1F474-1F3FF",
                 "image": "1f474-1f3ff.png",
                 "sheet_x": 15,
@@ -18084,7 +18084,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F475-1F3FB": {
+            "1F3FB": {
                 "unified": "1F475-1F3FB",
                 "image": "1f475-1f3fb.png",
                 "sheet_x": 15,
@@ -18096,7 +18096,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F475-1F3FC": {
+            "1F3FC": {
                 "unified": "1F475-1F3FC",
                 "image": "1f475-1f3fc.png",
                 "sheet_x": 15,
@@ -18108,7 +18108,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F475-1F3FD": {
+            "1F3FD": {
                 "unified": "1F475-1F3FD",
                 "image": "1f475-1f3fd.png",
                 "sheet_x": 15,
@@ -18120,7 +18120,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F475-1F3FE": {
+            "1F3FE": {
                 "unified": "1F475-1F3FE",
                 "image": "1f475-1f3fe.png",
                 "sheet_x": 15,
@@ -18132,7 +18132,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F475-1F3FF": {
+            "1F3FF": {
                 "unified": "1F475-1F3FF",
                 "image": "1f475-1f3ff.png",
                 "sheet_x": 15,
@@ -18174,7 +18174,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F476-1F3FB": {
+            "1F3FB": {
                 "unified": "1F476-1F3FB",
                 "image": "1f476-1f3fb.png",
                 "sheet_x": 15,
@@ -18186,7 +18186,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F476-1F3FC": {
+            "1F3FC": {
                 "unified": "1F476-1F3FC",
                 "image": "1f476-1f3fc.png",
                 "sheet_x": 15,
@@ -18198,7 +18198,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F476-1F3FD": {
+            "1F3FD": {
                 "unified": "1F476-1F3FD",
                 "image": "1f476-1f3fd.png",
                 "sheet_x": 15,
@@ -18210,7 +18210,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F476-1F3FE": {
+            "1F3FE": {
                 "unified": "1F476-1F3FE",
                 "image": "1f476-1f3fe.png",
                 "sheet_x": 15,
@@ -18222,7 +18222,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F476-1F3FF": {
+            "1F3FF": {
                 "unified": "1F476-1F3FF",
                 "image": "1f476-1f3ff.png",
                 "sheet_x": 15,
@@ -18264,7 +18264,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F477-1F3FB": {
+            "1F3FB": {
                 "unified": "1F477-1F3FB",
                 "image": "1f477-1f3fb.png",
                 "sheet_x": 15,
@@ -18276,7 +18276,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F477-1F3FC": {
+            "1F3FC": {
                 "unified": "1F477-1F3FC",
                 "image": "1f477-1f3fc.png",
                 "sheet_x": 15,
@@ -18288,7 +18288,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F477-1F3FD": {
+            "1F3FD": {
                 "unified": "1F477-1F3FD",
                 "image": "1f477-1f3fd.png",
                 "sheet_x": 15,
@@ -18300,7 +18300,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F477-1F3FE": {
+            "1F3FE": {
                 "unified": "1F477-1F3FE",
                 "image": "1f477-1f3fe.png",
                 "sheet_x": 15,
@@ -18312,7 +18312,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F477-1F3FF": {
+            "1F3FF": {
                 "unified": "1F477-1F3FF",
                 "image": "1f477-1f3ff.png",
                 "sheet_x": 15,
@@ -18354,7 +18354,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F478-1F3FB": {
+            "1F3FB": {
                 "unified": "1F478-1F3FB",
                 "image": "1f478-1f3fb.png",
                 "sheet_x": 15,
@@ -18366,7 +18366,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F478-1F3FC": {
+            "1F3FC": {
                 "unified": "1F478-1F3FC",
                 "image": "1f478-1f3fc.png",
                 "sheet_x": 15,
@@ -18378,7 +18378,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F478-1F3FD": {
+            "1F3FD": {
                 "unified": "1F478-1F3FD",
                 "image": "1f478-1f3fd.png",
                 "sheet_x": 15,
@@ -18390,7 +18390,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F478-1F3FE": {
+            "1F3FE": {
                 "unified": "1F478-1F3FE",
                 "image": "1f478-1f3fe.png",
                 "sheet_x": 15,
@@ -18402,7 +18402,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F478-1F3FF": {
+            "1F3FF": {
                 "unified": "1F478-1F3FF",
                 "image": "1f478-1f3ff.png",
                 "sheet_x": 15,
@@ -18528,7 +18528,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F47C-1F3FB": {
+            "1F3FB": {
                 "unified": "1F47C-1F3FB",
                 "image": "1f47c-1f3fb.png",
                 "sheet_x": 15,
@@ -18540,7 +18540,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F47C-1F3FC": {
+            "1F3FC": {
                 "unified": "1F47C-1F3FC",
                 "image": "1f47c-1f3fc.png",
                 "sheet_x": 15,
@@ -18552,7 +18552,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F47C-1F3FD": {
+            "1F3FD": {
                 "unified": "1F47C-1F3FD",
                 "image": "1f47c-1f3fd.png",
                 "sheet_x": 15,
@@ -18564,7 +18564,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F47C-1F3FE": {
+            "1F3FE": {
                 "unified": "1F47C-1F3FE",
                 "image": "1f47c-1f3fe.png",
                 "sheet_x": 15,
@@ -18576,7 +18576,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F47C-1F3FF": {
+            "1F3FF": {
                 "unified": "1F47C-1F3FF",
                 "image": "1f47c-1f3ff.png",
                 "sheet_x": 15,
@@ -18730,7 +18730,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F481-1F3FB": {
+            "1F3FB": {
                 "unified": "1F481-1F3FB",
                 "image": "1f481-1f3fb.png",
                 "sheet_x": 16,
@@ -18742,7 +18742,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F481-1F3FC": {
+            "1F3FC": {
                 "unified": "1F481-1F3FC",
                 "image": "1f481-1f3fc.png",
                 "sheet_x": 16,
@@ -18754,7 +18754,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F481-1F3FD": {
+            "1F3FD": {
                 "unified": "1F481-1F3FD",
                 "image": "1f481-1f3fd.png",
                 "sheet_x": 16,
@@ -18766,7 +18766,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F481-1F3FE": {
+            "1F3FE": {
                 "unified": "1F481-1F3FE",
                 "image": "1f481-1f3fe.png",
                 "sheet_x": 16,
@@ -18778,7 +18778,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F481-1F3FF": {
+            "1F3FF": {
                 "unified": "1F481-1F3FF",
                 "image": "1f481-1f3ff.png",
                 "sheet_x": 16,
@@ -18820,7 +18820,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F482-1F3FB": {
+            "1F3FB": {
                 "unified": "1F482-1F3FB",
                 "image": "1f482-1f3fb.png",
                 "sheet_x": 16,
@@ -18832,7 +18832,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F482-1F3FC": {
+            "1F3FC": {
                 "unified": "1F482-1F3FC",
                 "image": "1f482-1f3fc.png",
                 "sheet_x": 16,
@@ -18844,7 +18844,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F482-1F3FD": {
+            "1F3FD": {
                 "unified": "1F482-1F3FD",
                 "image": "1f482-1f3fd.png",
                 "sheet_x": 16,
@@ -18856,7 +18856,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F482-1F3FE": {
+            "1F3FE": {
                 "unified": "1F482-1F3FE",
                 "image": "1f482-1f3fe.png",
                 "sheet_x": 16,
@@ -18868,7 +18868,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F482-1F3FF": {
+            "1F3FF": {
                 "unified": "1F482-1F3FF",
                 "image": "1f482-1f3ff.png",
                 "sheet_x": 16,
@@ -18910,7 +18910,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F483-1F3FB": {
+            "1F3FB": {
                 "unified": "1F483-1F3FB",
                 "image": "1f483-1f3fb.png",
                 "sheet_x": 16,
@@ -18922,7 +18922,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F483-1F3FC": {
+            "1F3FC": {
                 "unified": "1F483-1F3FC",
                 "image": "1f483-1f3fc.png",
                 "sheet_x": 16,
@@ -18934,7 +18934,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F483-1F3FD": {
+            "1F3FD": {
                 "unified": "1F483-1F3FD",
                 "image": "1f483-1f3fd.png",
                 "sheet_x": 16,
@@ -18946,7 +18946,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F483-1F3FE": {
+            "1F3FE": {
                 "unified": "1F483-1F3FE",
                 "image": "1f483-1f3fe.png",
                 "sheet_x": 16,
@@ -18958,7 +18958,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F483-1F3FF": {
+            "1F3FF": {
                 "unified": "1F483-1F3FF",
                 "image": "1f483-1f3ff.png",
                 "sheet_x": 16,
@@ -19028,7 +19028,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F485-1F3FB": {
+            "1F3FB": {
                 "unified": "1F485-1F3FB",
                 "image": "1f485-1f3fb.png",
                 "sheet_x": 16,
@@ -19040,7 +19040,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F485-1F3FC": {
+            "1F3FC": {
                 "unified": "1F485-1F3FC",
                 "image": "1f485-1f3fc.png",
                 "sheet_x": 16,
@@ -19052,7 +19052,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F485-1F3FD": {
+            "1F3FD": {
                 "unified": "1F485-1F3FD",
                 "image": "1f485-1f3fd.png",
                 "sheet_x": 16,
@@ -19064,7 +19064,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F485-1F3FE": {
+            "1F3FE": {
                 "unified": "1F485-1F3FE",
                 "image": "1f485-1f3fe.png",
                 "sheet_x": 16,
@@ -19076,7 +19076,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F485-1F3FF": {
+            "1F3FF": {
                 "unified": "1F485-1F3FF",
                 "image": "1f485-1f3ff.png",
                 "sheet_x": 16,
@@ -19118,7 +19118,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F486-1F3FB": {
+            "1F3FB": {
                 "unified": "1F486-1F3FB",
                 "image": "1f486-1f3fb.png",
                 "sheet_x": 16,
@@ -19130,7 +19130,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F486-1F3FC": {
+            "1F3FC": {
                 "unified": "1F486-1F3FC",
                 "image": "1f486-1f3fc.png",
                 "sheet_x": 16,
@@ -19142,7 +19142,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F486-1F3FD": {
+            "1F3FD": {
                 "unified": "1F486-1F3FD",
                 "image": "1f486-1f3fd.png",
                 "sheet_x": 16,
@@ -19154,7 +19154,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F486-1F3FE": {
+            "1F3FE": {
                 "unified": "1F486-1F3FE",
                 "image": "1f486-1f3fe.png",
                 "sheet_x": 16,
@@ -19166,7 +19166,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F486-1F3FF": {
+            "1F3FF": {
                 "unified": "1F486-1F3FF",
                 "image": "1f486-1f3ff.png",
                 "sheet_x": 16,
@@ -19208,7 +19208,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F487-1F3FB": {
+            "1F3FB": {
                 "unified": "1F487-1F3FB",
                 "image": "1f487-1f3fb.png",
                 "sheet_x": 16,
@@ -19220,7 +19220,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F487-1F3FC": {
+            "1F3FC": {
                 "unified": "1F487-1F3FC",
                 "image": "1f487-1f3fc.png",
                 "sheet_x": 16,
@@ -19232,7 +19232,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F487-1F3FD": {
+            "1F3FD": {
                 "unified": "1F487-1F3FD",
                 "image": "1f487-1f3fd.png",
                 "sheet_x": 16,
@@ -19244,7 +19244,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F487-1F3FE": {
+            "1F3FE": {
                 "unified": "1F487-1F3FE",
                 "image": "1f487-1f3fe.png",
                 "sheet_x": 16,
@@ -19256,7 +19256,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F487-1F3FF": {
+            "1F3FF": {
                 "unified": "1F487-1F3FF",
                 "image": "1f487-1f3ff.png",
                 "sheet_x": 16,
@@ -20255,7 +20255,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F4AA-1F3FB": {
+            "1F3FB": {
                 "unified": "1F4AA-1F3FB",
                 "image": "1f4aa-1f3fb.png",
                 "sheet_x": 17,
@@ -20267,7 +20267,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F4AA-1F3FC": {
+            "1F3FC": {
                 "unified": "1F4AA-1F3FC",
                 "image": "1f4aa-1f3fc.png",
                 "sheet_x": 17,
@@ -20279,7 +20279,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F4AA-1F3FD": {
+            "1F3FD": {
                 "unified": "1F4AA-1F3FD",
                 "image": "1f4aa-1f3fd.png",
                 "sheet_x": 17,
@@ -20291,7 +20291,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F4AA-1F3FE": {
+            "1F3FE": {
                 "unified": "1F4AA-1F3FE",
                 "image": "1f4aa-1f3fe.png",
                 "sheet_x": 17,
@@ -20303,7 +20303,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F4AA-1F3FF": {
+            "1F3FF": {
                 "unified": "1F4AA-1F3FF",
                 "image": "1f4aa-1f3ff.png",
                 "sheet_x": 17,
@@ -25360,7 +25360,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F574-1F3FB": {
+            "1F3FB": {
                 "unified": "1F574-1F3FB",
                 "image": "1f574-1f3fb.png",
                 "sheet_x": 21,
@@ -25372,7 +25372,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F574-1F3FC": {
+            "1F3FC": {
                 "unified": "1F574-1F3FC",
                 "image": "1f574-1f3fc.png",
                 "sheet_x": 21,
@@ -25384,7 +25384,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F574-1F3FD": {
+            "1F3FD": {
                 "unified": "1F574-1F3FD",
                 "image": "1f574-1f3fd.png",
                 "sheet_x": 21,
@@ -25396,7 +25396,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F574-1F3FE": {
+            "1F3FE": {
                 "unified": "1F574-1F3FE",
                 "image": "1f574-1f3fe.png",
                 "sheet_x": 21,
@@ -25408,7 +25408,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F574-1F3FF": {
+            "1F3FF": {
                 "unified": "1F574-1F3FF",
                 "image": "1f574-1f3ff.png",
                 "sheet_x": 21,
@@ -25450,7 +25450,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F575-1F3FB": {
+            "1F3FB": {
                 "unified": "1F575-1F3FB",
                 "image": "1f575-1f3fb.png",
                 "sheet_x": 21,
@@ -25462,7 +25462,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F575-1F3FC": {
+            "1F3FC": {
                 "unified": "1F575-1F3FC",
                 "image": "1f575-1f3fc.png",
                 "sheet_x": 21,
@@ -25474,7 +25474,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F575-1F3FD": {
+            "1F3FD": {
                 "unified": "1F575-1F3FD",
                 "image": "1f575-1f3fd.png",
                 "sheet_x": 21,
@@ -25486,7 +25486,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F575-1F3FE": {
+            "1F3FE": {
                 "unified": "1F575-1F3FE",
                 "image": "1f575-1f3fe.png",
                 "sheet_x": 21,
@@ -25498,7 +25498,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F575-1F3FF": {
+            "1F3FF": {
                 "unified": "1F575-1F3FF",
                 "image": "1f575-1f3ff.png",
                 "sheet_x": 21,
@@ -25652,7 +25652,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F57A-1F3FB": {
+            "1F3FB": {
                 "unified": "1F57A-1F3FB",
                 "image": "1f57a-1f3fb.png",
                 "sheet_x": 21,
@@ -25664,7 +25664,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F57A-1F3FC": {
+            "1F3FC": {
                 "unified": "1F57A-1F3FC",
                 "image": "1f57a-1f3fc.png",
                 "sheet_x": 21,
@@ -25676,7 +25676,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F57A-1F3FD": {
+            "1F3FD": {
                 "unified": "1F57A-1F3FD",
                 "image": "1f57a-1f3fd.png",
                 "sheet_x": 21,
@@ -25688,7 +25688,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F57A-1F3FE": {
+            "1F3FE": {
                 "unified": "1F57A-1F3FE",
                 "image": "1f57a-1f3fe.png",
                 "sheet_x": 21,
@@ -25700,7 +25700,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F57A-1F3FF": {
+            "1F3FF": {
                 "unified": "1F57A-1F3FF",
                 "image": "1f57a-1f3ff.png",
                 "sheet_x": 21,
@@ -25882,7 +25882,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F590-1F3FB": {
+            "1F3FB": {
                 "unified": "1F590-1F3FB",
                 "image": "1f590-1f3fb.png",
                 "sheet_x": 21,
@@ -25894,7 +25894,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F590-1F3FC": {
+            "1F3FC": {
                 "unified": "1F590-1F3FC",
                 "image": "1f590-1f3fc.png",
                 "sheet_x": 21,
@@ -25906,7 +25906,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F590-1F3FD": {
+            "1F3FD": {
                 "unified": "1F590-1F3FD",
                 "image": "1f590-1f3fd.png",
                 "sheet_x": 21,
@@ -25918,7 +25918,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F590-1F3FE": {
+            "1F3FE": {
                 "unified": "1F590-1F3FE",
                 "image": "1f590-1f3fe.png",
                 "sheet_x": 21,
@@ -25930,7 +25930,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F590-1F3FF": {
+            "1F3FF": {
                 "unified": "1F590-1F3FF",
                 "image": "1f590-1f3ff.png",
                 "sheet_x": 21,
@@ -25973,7 +25973,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F595-1F3FB": {
+            "1F3FB": {
                 "unified": "1F595-1F3FB",
                 "image": "1f595-1f3fb.png",
                 "sheet_x": 21,
@@ -25985,7 +25985,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F595-1F3FC": {
+            "1F3FC": {
                 "unified": "1F595-1F3FC",
                 "image": "1f595-1f3fc.png",
                 "sheet_x": 21,
@@ -25997,7 +25997,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F595-1F3FD": {
+            "1F3FD": {
                 "unified": "1F595-1F3FD",
                 "image": "1f595-1f3fd.png",
                 "sheet_x": 21,
@@ -26009,7 +26009,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F595-1F3FE": {
+            "1F3FE": {
                 "unified": "1F595-1F3FE",
                 "image": "1f595-1f3fe.png",
                 "sheet_x": 21,
@@ -26021,7 +26021,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F595-1F3FF": {
+            "1F3FF": {
                 "unified": "1F595-1F3FF",
                 "image": "1f595-1f3ff.png",
                 "sheet_x": 22,
@@ -26063,7 +26063,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F596-1F3FB": {
+            "1F3FB": {
                 "unified": "1F596-1F3FB",
                 "image": "1f596-1f3fb.png",
                 "sheet_x": 22,
@@ -26075,7 +26075,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F596-1F3FC": {
+            "1F3FC": {
                 "unified": "1F596-1F3FC",
                 "image": "1f596-1f3fc.png",
                 "sheet_x": 22,
@@ -26087,7 +26087,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F596-1F3FD": {
+            "1F3FD": {
                 "unified": "1F596-1F3FD",
                 "image": "1f596-1f3fd.png",
                 "sheet_x": 22,
@@ -26099,7 +26099,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F596-1F3FE": {
+            "1F3FE": {
                 "unified": "1F596-1F3FE",
                 "image": "1f596-1f3fe.png",
                 "sheet_x": 22,
@@ -26111,7 +26111,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F596-1F3FF": {
+            "1F3FF": {
                 "unified": "1F596-1F3FF",
                 "image": "1f596-1f3ff.png",
                 "sheet_x": 22,
@@ -28875,7 +28875,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F645-1F3FB": {
+            "1F3FB": {
                 "unified": "1F645-1F3FB",
                 "image": "1f645-1f3fb.png",
                 "sheet_x": 24,
@@ -28887,7 +28887,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F645-1F3FC": {
+            "1F3FC": {
                 "unified": "1F645-1F3FC",
                 "image": "1f645-1f3fc.png",
                 "sheet_x": 24,
@@ -28899,7 +28899,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F645-1F3FD": {
+            "1F3FD": {
                 "unified": "1F645-1F3FD",
                 "image": "1f645-1f3fd.png",
                 "sheet_x": 24,
@@ -28911,7 +28911,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F645-1F3FE": {
+            "1F3FE": {
                 "unified": "1F645-1F3FE",
                 "image": "1f645-1f3fe.png",
                 "sheet_x": 24,
@@ -28923,7 +28923,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F645-1F3FF": {
+            "1F3FF": {
                 "unified": "1F645-1F3FF",
                 "image": "1f645-1f3ff.png",
                 "sheet_x": 24,
@@ -28965,7 +28965,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F646-1F3FB": {
+            "1F3FB": {
                 "unified": "1F646-1F3FB",
                 "image": "1f646-1f3fb.png",
                 "sheet_x": 24,
@@ -28977,7 +28977,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F646-1F3FC": {
+            "1F3FC": {
                 "unified": "1F646-1F3FC",
                 "image": "1f646-1f3fc.png",
                 "sheet_x": 24,
@@ -28989,7 +28989,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F646-1F3FD": {
+            "1F3FD": {
                 "unified": "1F646-1F3FD",
                 "image": "1f646-1f3fd.png",
                 "sheet_x": 24,
@@ -29001,7 +29001,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F646-1F3FE": {
+            "1F3FE": {
                 "unified": "1F646-1F3FE",
                 "image": "1f646-1f3fe.png",
                 "sheet_x": 24,
@@ -29013,7 +29013,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F646-1F3FF": {
+            "1F3FF": {
                 "unified": "1F646-1F3FF",
                 "image": "1f646-1f3ff.png",
                 "sheet_x": 24,
@@ -29055,7 +29055,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F647-1F3FB": {
+            "1F3FB": {
                 "unified": "1F647-1F3FB",
                 "image": "1f647-1f3fb.png",
                 "sheet_x": 24,
@@ -29067,7 +29067,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F647-1F3FC": {
+            "1F3FC": {
                 "unified": "1F647-1F3FC",
                 "image": "1f647-1f3fc.png",
                 "sheet_x": 24,
@@ -29079,7 +29079,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F647-1F3FD": {
+            "1F3FD": {
                 "unified": "1F647-1F3FD",
                 "image": "1f647-1f3fd.png",
                 "sheet_x": 24,
@@ -29091,7 +29091,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F647-1F3FE": {
+            "1F3FE": {
                 "unified": "1F647-1F3FE",
                 "image": "1f647-1f3fe.png",
                 "sheet_x": 24,
@@ -29103,7 +29103,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F647-1F3FF": {
+            "1F3FF": {
                 "unified": "1F647-1F3FF",
                 "image": "1f647-1f3ff.png",
                 "sheet_x": 24,
@@ -29229,7 +29229,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F64B-1F3FB": {
+            "1F3FB": {
                 "unified": "1F64B-1F3FB",
                 "image": "1f64b-1f3fb.png",
                 "sheet_x": 24,
@@ -29241,7 +29241,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64B-1F3FC": {
+            "1F3FC": {
                 "unified": "1F64B-1F3FC",
                 "image": "1f64b-1f3fc.png",
                 "sheet_x": 24,
@@ -29253,7 +29253,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64B-1F3FD": {
+            "1F3FD": {
                 "unified": "1F64B-1F3FD",
                 "image": "1f64b-1f3fd.png",
                 "sheet_x": 24,
@@ -29265,7 +29265,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64B-1F3FE": {
+            "1F3FE": {
                 "unified": "1F64B-1F3FE",
                 "image": "1f64b-1f3fe.png",
                 "sheet_x": 24,
@@ -29277,7 +29277,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64B-1F3FF": {
+            "1F3FF": {
                 "unified": "1F64B-1F3FF",
                 "image": "1f64b-1f3ff.png",
                 "sheet_x": 24,
@@ -29319,7 +29319,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F64C-1F3FB": {
+            "1F3FB": {
                 "unified": "1F64C-1F3FB",
                 "image": "1f64c-1f3fb.png",
                 "sheet_x": 24,
@@ -29331,7 +29331,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64C-1F3FC": {
+            "1F3FC": {
                 "unified": "1F64C-1F3FC",
                 "image": "1f64c-1f3fc.png",
                 "sheet_x": 24,
@@ -29343,7 +29343,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64C-1F3FD": {
+            "1F3FD": {
                 "unified": "1F64C-1F3FD",
                 "image": "1f64c-1f3fd.png",
                 "sheet_x": 24,
@@ -29355,7 +29355,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64C-1F3FE": {
+            "1F3FE": {
                 "unified": "1F64C-1F3FE",
                 "image": "1f64c-1f3fe.png",
                 "sheet_x": 24,
@@ -29367,7 +29367,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64C-1F3FF": {
+            "1F3FF": {
                 "unified": "1F64C-1F3FF",
                 "image": "1f64c-1f3ff.png",
                 "sheet_x": 24,
@@ -29409,7 +29409,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F64D-1F3FB": {
+            "1F3FB": {
                 "unified": "1F64D-1F3FB",
                 "image": "1f64d-1f3fb.png",
                 "sheet_x": 24,
@@ -29421,7 +29421,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64D-1F3FC": {
+            "1F3FC": {
                 "unified": "1F64D-1F3FC",
                 "image": "1f64d-1f3fc.png",
                 "sheet_x": 24,
@@ -29433,7 +29433,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64D-1F3FD": {
+            "1F3FD": {
                 "unified": "1F64D-1F3FD",
                 "image": "1f64d-1f3fd.png",
                 "sheet_x": 24,
@@ -29445,7 +29445,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64D-1F3FE": {
+            "1F3FE": {
                 "unified": "1F64D-1F3FE",
                 "image": "1f64d-1f3fe.png",
                 "sheet_x": 24,
@@ -29457,7 +29457,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64D-1F3FF": {
+            "1F3FF": {
                 "unified": "1F64D-1F3FF",
                 "image": "1f64d-1f3ff.png",
                 "sheet_x": 24,
@@ -29499,7 +29499,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F64E-1F3FB": {
+            "1F3FB": {
                 "unified": "1F64E-1F3FB",
                 "image": "1f64e-1f3fb.png",
                 "sheet_x": 24,
@@ -29511,7 +29511,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64E-1F3FC": {
+            "1F3FC": {
                 "unified": "1F64E-1F3FC",
                 "image": "1f64e-1f3fc.png",
                 "sheet_x": 24,
@@ -29523,7 +29523,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64E-1F3FD": {
+            "1F3FD": {
                 "unified": "1F64E-1F3FD",
                 "image": "1f64e-1f3fd.png",
                 "sheet_x": 24,
@@ -29535,7 +29535,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64E-1F3FE": {
+            "1F3FE": {
                 "unified": "1F64E-1F3FE",
                 "image": "1f64e-1f3fe.png",
                 "sheet_x": 24,
@@ -29547,7 +29547,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64E-1F3FF": {
+            "1F3FF": {
                 "unified": "1F64E-1F3FF",
                 "image": "1f64e-1f3ff.png",
                 "sheet_x": 24,
@@ -29589,7 +29589,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F64F-1F3FB": {
+            "1F3FB": {
                 "unified": "1F64F-1F3FB",
                 "image": "1f64f-1f3fb.png",
                 "sheet_x": 25,
@@ -29601,7 +29601,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64F-1F3FC": {
+            "1F3FC": {
                 "unified": "1F64F-1F3FC",
                 "image": "1f64f-1f3fc.png",
                 "sheet_x": 25,
@@ -29613,7 +29613,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64F-1F3FD": {
+            "1F3FD": {
                 "unified": "1F64F-1F3FD",
                 "image": "1f64f-1f3fd.png",
                 "sheet_x": 25,
@@ -29625,7 +29625,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64F-1F3FE": {
+            "1F3FE": {
                 "unified": "1F64F-1F3FE",
                 "image": "1f64f-1f3fe.png",
                 "sheet_x": 25,
@@ -29637,7 +29637,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F64F-1F3FF": {
+            "1F3FF": {
                 "unified": "1F64F-1F3FF",
                 "image": "1f64f-1f3ff.png",
                 "sheet_x": 25,
@@ -30660,7 +30660,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F6A3-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6A3-1F3FB",
                 "image": "1f6a3-1f3fb.png",
                 "sheet_x": 25,
@@ -30672,7 +30672,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6A3-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6A3-1F3FC",
                 "image": "1f6a3-1f3fc.png",
                 "sheet_x": 25,
@@ -30684,7 +30684,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6A3-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6A3-1F3FD",
                 "image": "1f6a3-1f3fd.png",
                 "sheet_x": 25,
@@ -30696,7 +30696,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6A3-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6A3-1F3FE",
                 "image": "1f6a3-1f3fe.png",
                 "sheet_x": 25,
@@ -30708,7 +30708,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6A3-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6A3-1F3FF",
                 "image": "1f6a3-1f3ff.png",
                 "sheet_x": 25,
@@ -31198,7 +31198,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F6B4-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6B4-1F3FB",
                 "image": "1f6b4-1f3fb.png",
                 "sheet_x": 26,
@@ -31210,7 +31210,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B4-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6B4-1F3FC",
                 "image": "1f6b4-1f3fc.png",
                 "sheet_x": 26,
@@ -31222,7 +31222,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B4-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6B4-1F3FD",
                 "image": "1f6b4-1f3fd.png",
                 "sheet_x": 26,
@@ -31234,7 +31234,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B4-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6B4-1F3FE",
                 "image": "1f6b4-1f3fe.png",
                 "sheet_x": 26,
@@ -31246,7 +31246,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B4-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6B4-1F3FF",
                 "image": "1f6b4-1f3ff.png",
                 "sheet_x": 26,
@@ -31288,7 +31288,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F6B5-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6B5-1F3FB",
                 "image": "1f6b5-1f3fb.png",
                 "sheet_x": 26,
@@ -31300,7 +31300,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B5-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6B5-1F3FC",
                 "image": "1f6b5-1f3fc.png",
                 "sheet_x": 26,
@@ -31312,7 +31312,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B5-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6B5-1F3FD",
                 "image": "1f6b5-1f3fd.png",
                 "sheet_x": 26,
@@ -31324,7 +31324,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B5-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6B5-1F3FE",
                 "image": "1f6b5-1f3fe.png",
                 "sheet_x": 26,
@@ -31336,7 +31336,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B5-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6B5-1F3FF",
                 "image": "1f6b5-1f3ff.png",
                 "sheet_x": 26,
@@ -31378,7 +31378,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F6B6-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6B6-1F3FB",
                 "image": "1f6b6-1f3fb.png",
                 "sheet_x": 26,
@@ -31390,7 +31390,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B6-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6B6-1F3FC",
                 "image": "1f6b6-1f3fc.png",
                 "sheet_x": 26,
@@ -31402,7 +31402,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B6-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6B6-1F3FD",
                 "image": "1f6b6-1f3fd.png",
                 "sheet_x": 26,
@@ -31414,7 +31414,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B6-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6B6-1F3FE",
                 "image": "1f6b6-1f3fe.png",
                 "sheet_x": 26,
@@ -31426,7 +31426,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6B6-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6B6-1F3FF",
                 "image": "1f6b6-1f3ff.png",
                 "sheet_x": 26,
@@ -31720,7 +31720,7 @@
         "has_img_facebook": false,
         "has_img_messenger": true,
         "skin_variations": {
-            "1F6C0-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6C0-1F3FB",
                 "image": "1f6c0-1f3fb.png",
                 "sheet_x": 26,
@@ -31732,7 +31732,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6C0-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6C0-1F3FC",
                 "image": "1f6c0-1f3fc.png",
                 "sheet_x": 26,
@@ -31744,7 +31744,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6C0-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6C0-1F3FD",
                 "image": "1f6c0-1f3fd.png",
                 "sheet_x": 26,
@@ -31756,7 +31756,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6C0-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6C0-1F3FE",
                 "image": "1f6c0-1f3fe.png",
                 "sheet_x": 26,
@@ -31768,7 +31768,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": true
             },
-            "1F6C0-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6C0-1F3FF",
                 "image": "1f6c0-1f3ff.png",
                 "sheet_x": 26,
@@ -31978,7 +31978,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F6CC-1F3FB": {
+            "1F3FB": {
                 "unified": "1F6CC-1F3FB",
                 "image": "1f6cc-1f3fb.png",
                 "sheet_x": 27,
@@ -31990,7 +31990,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6CC-1F3FC": {
+            "1F3FC": {
                 "unified": "1F6CC-1F3FC",
                 "image": "1f6cc-1f3fc.png",
                 "sheet_x": 27,
@@ -32002,7 +32002,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6CC-1F3FD": {
+            "1F3FD": {
                 "unified": "1F6CC-1F3FD",
                 "image": "1f6cc-1f3fd.png",
                 "sheet_x": 27,
@@ -32014,7 +32014,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6CC-1F3FE": {
+            "1F3FE": {
                 "unified": "1F6CC-1F3FE",
                 "image": "1f6cc-1f3fe.png",
                 "sheet_x": 27,
@@ -32026,7 +32026,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F6CC-1F3FF": {
+            "1F3FF": {
                 "unified": "1F6CC-1F3FF",
                 "image": "1f6cc-1f3ff.png",
                 "sheet_x": 27,
@@ -32853,7 +32853,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F918-1F3FB": {
+            "1F3FB": {
                 "unified": "1F918-1F3FB",
                 "image": "1f918-1f3fb.png",
                 "sheet_x": 27,
@@ -32865,7 +32865,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F918-1F3FC": {
+            "1F3FC": {
                 "unified": "1F918-1F3FC",
                 "image": "1f918-1f3fc.png",
                 "sheet_x": 27,
@@ -32877,7 +32877,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F918-1F3FD": {
+            "1F3FD": {
                 "unified": "1F918-1F3FD",
                 "image": "1f918-1f3fd.png",
                 "sheet_x": 27,
@@ -32889,7 +32889,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F918-1F3FE": {
+            "1F3FE": {
                 "unified": "1F918-1F3FE",
                 "image": "1f918-1f3fe.png",
                 "sheet_x": 27,
@@ -32901,7 +32901,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F918-1F3FF": {
+            "1F3FF": {
                 "unified": "1F918-1F3FF",
                 "image": "1f918-1f3ff.png",
                 "sheet_x": 27,
@@ -32943,7 +32943,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F919-1F3FB": {
+            "1F3FB": {
                 "unified": "1F919-1F3FB",
                 "image": "1f919-1f3fb.png",
                 "sheet_x": 27,
@@ -32955,7 +32955,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F919-1F3FC": {
+            "1F3FC": {
                 "unified": "1F919-1F3FC",
                 "image": "1f919-1f3fc.png",
                 "sheet_x": 27,
@@ -32967,7 +32967,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F919-1F3FD": {
+            "1F3FD": {
                 "unified": "1F919-1F3FD",
                 "image": "1f919-1f3fd.png",
                 "sheet_x": 27,
@@ -32979,7 +32979,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F919-1F3FE": {
+            "1F3FE": {
                 "unified": "1F919-1F3FE",
                 "image": "1f919-1f3fe.png",
                 "sheet_x": 27,
@@ -32991,7 +32991,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F919-1F3FF": {
+            "1F3FF": {
                 "unified": "1F919-1F3FF",
                 "image": "1f919-1f3ff.png",
                 "sheet_x": 28,
@@ -33033,7 +33033,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F91A-1F3FB": {
+            "1F3FB": {
                 "unified": "1F91A-1F3FB",
                 "image": "1f91a-1f3fb.png",
                 "sheet_x": 28,
@@ -33045,7 +33045,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91A-1F3FC": {
+            "1F3FC": {
                 "unified": "1F91A-1F3FC",
                 "image": "1f91a-1f3fc.png",
                 "sheet_x": 28,
@@ -33057,7 +33057,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91A-1F3FD": {
+            "1F3FD": {
                 "unified": "1F91A-1F3FD",
                 "image": "1f91a-1f3fd.png",
                 "sheet_x": 28,
@@ -33069,7 +33069,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91A-1F3FE": {
+            "1F3FE": {
                 "unified": "1F91A-1F3FE",
                 "image": "1f91a-1f3fe.png",
                 "sheet_x": 28,
@@ -33081,7 +33081,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91A-1F3FF": {
+            "1F3FF": {
                 "unified": "1F91A-1F3FF",
                 "image": "1f91a-1f3ff.png",
                 "sheet_x": 28,
@@ -33123,7 +33123,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F91B-1F3FB": {
+            "1F3FB": {
                 "unified": "1F91B-1F3FB",
                 "image": "1f91b-1f3fb.png",
                 "sheet_x": 28,
@@ -33135,7 +33135,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91B-1F3FC": {
+            "1F3FC": {
                 "unified": "1F91B-1F3FC",
                 "image": "1f91b-1f3fc.png",
                 "sheet_x": 28,
@@ -33147,7 +33147,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91B-1F3FD": {
+            "1F3FD": {
                 "unified": "1F91B-1F3FD",
                 "image": "1f91b-1f3fd.png",
                 "sheet_x": 28,
@@ -33159,7 +33159,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91B-1F3FE": {
+            "1F3FE": {
                 "unified": "1F91B-1F3FE",
                 "image": "1f91b-1f3fe.png",
                 "sheet_x": 28,
@@ -33171,7 +33171,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91B-1F3FF": {
+            "1F3FF": {
                 "unified": "1F91B-1F3FF",
                 "image": "1f91b-1f3ff.png",
                 "sheet_x": 28,
@@ -33213,7 +33213,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F91C-1F3FB": {
+            "1F3FB": {
                 "unified": "1F91C-1F3FB",
                 "image": "1f91c-1f3fb.png",
                 "sheet_x": 28,
@@ -33225,7 +33225,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91C-1F3FC": {
+            "1F3FC": {
                 "unified": "1F91C-1F3FC",
                 "image": "1f91c-1f3fc.png",
                 "sheet_x": 28,
@@ -33237,7 +33237,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91C-1F3FD": {
+            "1F3FD": {
                 "unified": "1F91C-1F3FD",
                 "image": "1f91c-1f3fd.png",
                 "sheet_x": 28,
@@ -33249,7 +33249,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91C-1F3FE": {
+            "1F3FE": {
                 "unified": "1F91C-1F3FE",
                 "image": "1f91c-1f3fe.png",
                 "sheet_x": 28,
@@ -33261,7 +33261,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91C-1F3FF": {
+            "1F3FF": {
                 "unified": "1F91C-1F3FF",
                 "image": "1f91c-1f3ff.png",
                 "sheet_x": 28,
@@ -33331,7 +33331,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F91E-1F3FB": {
+            "1F3FB": {
                 "unified": "1F91E-1F3FB",
                 "image": "1f91e-1f3fb.png",
                 "sheet_x": 28,
@@ -33343,7 +33343,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91E-1F3FC": {
+            "1F3FC": {
                 "unified": "1F91E-1F3FC",
                 "image": "1f91e-1f3fc.png",
                 "sheet_x": 28,
@@ -33355,7 +33355,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91E-1F3FD": {
+            "1F3FD": {
                 "unified": "1F91E-1F3FD",
                 "image": "1f91e-1f3fd.png",
                 "sheet_x": 28,
@@ -33367,7 +33367,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91E-1F3FE": {
+            "1F3FE": {
                 "unified": "1F91E-1F3FE",
                 "image": "1f91e-1f3fe.png",
                 "sheet_x": 28,
@@ -33379,7 +33379,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F91E-1F3FF": {
+            "1F3FF": {
                 "unified": "1F91E-1F3FF",
                 "image": "1f91e-1f3ff.png",
                 "sheet_x": 28,
@@ -33589,7 +33589,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F926-1F3FB": {
+            "1F3FB": {
                 "unified": "1F926-1F3FB",
                 "image": "1f926-1f3fb.png",
                 "sheet_x": 28,
@@ -33601,7 +33601,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F926-1F3FC": {
+            "1F3FC": {
                 "unified": "1F926-1F3FC",
                 "image": "1f926-1f3fc.png",
                 "sheet_x": 28,
@@ -33613,7 +33613,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F926-1F3FD": {
+            "1F3FD": {
                 "unified": "1F926-1F3FD",
                 "image": "1f926-1f3fd.png",
                 "sheet_x": 28,
@@ -33625,7 +33625,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F926-1F3FE": {
+            "1F3FE": {
                 "unified": "1F926-1F3FE",
                 "image": "1f926-1f3fe.png",
                 "sheet_x": 28,
@@ -33637,7 +33637,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F926-1F3FF": {
+            "1F3FF": {
                 "unified": "1F926-1F3FF",
                 "image": "1f926-1f3ff.png",
                 "sheet_x": 28,
@@ -33707,7 +33707,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F930-1F3FB": {
+            "1F3FB": {
                 "unified": "1F930-1F3FB",
                 "image": "1f930-1f3fb.png",
                 "sheet_x": 28,
@@ -33719,7 +33719,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F930-1F3FC": {
+            "1F3FC": {
                 "unified": "1F930-1F3FC",
                 "image": "1f930-1f3fc.png",
                 "sheet_x": 28,
@@ -33731,7 +33731,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F930-1F3FD": {
+            "1F3FD": {
                 "unified": "1F930-1F3FD",
                 "image": "1f930-1f3fd.png",
                 "sheet_x": 28,
@@ -33743,7 +33743,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F930-1F3FE": {
+            "1F3FE": {
                 "unified": "1F930-1F3FE",
                 "image": "1f930-1f3fe.png",
                 "sheet_x": 28,
@@ -33755,7 +33755,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F930-1F3FF": {
+            "1F3FF": {
                 "unified": "1F930-1F3FF",
                 "image": "1f930-1f3ff.png",
                 "sheet_x": 28,
@@ -33797,7 +33797,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F933-1F3FB": {
+            "1F3FB": {
                 "unified": "1F933-1F3FB",
                 "image": "1f933-1f3fb.png",
                 "sheet_x": 28,
@@ -33809,7 +33809,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F933-1F3FC": {
+            "1F3FC": {
                 "unified": "1F933-1F3FC",
                 "image": "1f933-1f3fc.png",
                 "sheet_x": 28,
@@ -33821,7 +33821,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F933-1F3FD": {
+            "1F3FD": {
                 "unified": "1F933-1F3FD",
                 "image": "1f933-1f3fd.png",
                 "sheet_x": 28,
@@ -33833,7 +33833,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F933-1F3FE": {
+            "1F3FE": {
                 "unified": "1F933-1F3FE",
                 "image": "1f933-1f3fe.png",
                 "sheet_x": 29,
@@ -33845,7 +33845,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F933-1F3FF": {
+            "1F3FF": {
                 "unified": "1F933-1F3FF",
                 "image": "1f933-1f3ff.png",
                 "sheet_x": 29,
@@ -33887,7 +33887,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F934-1F3FB": {
+            "1F3FB": {
                 "unified": "1F934-1F3FB",
                 "image": "1f934-1f3fb.png",
                 "sheet_x": 29,
@@ -33899,7 +33899,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F934-1F3FC": {
+            "1F3FC": {
                 "unified": "1F934-1F3FC",
                 "image": "1f934-1f3fc.png",
                 "sheet_x": 29,
@@ -33911,7 +33911,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F934-1F3FD": {
+            "1F3FD": {
                 "unified": "1F934-1F3FD",
                 "image": "1f934-1f3fd.png",
                 "sheet_x": 29,
@@ -33923,7 +33923,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F934-1F3FE": {
+            "1F3FE": {
                 "unified": "1F934-1F3FE",
                 "image": "1f934-1f3fe.png",
                 "sheet_x": 29,
@@ -33935,7 +33935,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F934-1F3FF": {
+            "1F3FF": {
                 "unified": "1F934-1F3FF",
                 "image": "1f934-1f3ff.png",
                 "sheet_x": 29,
@@ -33977,7 +33977,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F935-1F3FB": {
+            "1F3FB": {
                 "unified": "1F935-1F3FB",
                 "image": "1f935-1f3fb.png",
                 "sheet_x": 29,
@@ -33989,7 +33989,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F935-1F3FC": {
+            "1F3FC": {
                 "unified": "1F935-1F3FC",
                 "image": "1f935-1f3fc.png",
                 "sheet_x": 29,
@@ -34001,7 +34001,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F935-1F3FD": {
+            "1F3FD": {
                 "unified": "1F935-1F3FD",
                 "image": "1f935-1f3fd.png",
                 "sheet_x": 29,
@@ -34013,7 +34013,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F935-1F3FE": {
+            "1F3FE": {
                 "unified": "1F935-1F3FE",
                 "image": "1f935-1f3fe.png",
                 "sheet_x": 29,
@@ -34025,7 +34025,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F935-1F3FF": {
+            "1F3FF": {
                 "unified": "1F935-1F3FF",
                 "image": "1f935-1f3ff.png",
                 "sheet_x": 29,
@@ -34067,7 +34067,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F936-1F3FB": {
+            "1F3FB": {
                 "unified": "1F936-1F3FB",
                 "image": "1f936-1f3fb.png",
                 "sheet_x": 29,
@@ -34079,7 +34079,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F936-1F3FC": {
+            "1F3FC": {
                 "unified": "1F936-1F3FC",
                 "image": "1f936-1f3fc.png",
                 "sheet_x": 29,
@@ -34091,7 +34091,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F936-1F3FD": {
+            "1F3FD": {
                 "unified": "1F936-1F3FD",
                 "image": "1f936-1f3fd.png",
                 "sheet_x": 29,
@@ -34103,7 +34103,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F936-1F3FE": {
+            "1F3FE": {
                 "unified": "1F936-1F3FE",
                 "image": "1f936-1f3fe.png",
                 "sheet_x": 29,
@@ -34115,7 +34115,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F936-1F3FF": {
+            "1F3FF": {
                 "unified": "1F936-1F3FF",
                 "image": "1f936-1f3ff.png",
                 "sheet_x": 29,
@@ -34157,7 +34157,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F937-1F3FB": {
+            "1F3FB": {
                 "unified": "1F937-1F3FB",
                 "image": "1f937-1f3fb.png",
                 "sheet_x": 29,
@@ -34169,7 +34169,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F937-1F3FC": {
+            "1F3FC": {
                 "unified": "1F937-1F3FC",
                 "image": "1f937-1f3fc.png",
                 "sheet_x": 29,
@@ -34181,7 +34181,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F937-1F3FD": {
+            "1F3FD": {
                 "unified": "1F937-1F3FD",
                 "image": "1f937-1f3fd.png",
                 "sheet_x": 29,
@@ -34193,7 +34193,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F937-1F3FE": {
+            "1F3FE": {
                 "unified": "1F937-1F3FE",
                 "image": "1f937-1f3fe.png",
                 "sheet_x": 29,
@@ -34205,7 +34205,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F937-1F3FF": {
+            "1F3FF": {
                 "unified": "1F937-1F3FF",
                 "image": "1f937-1f3ff.png",
                 "sheet_x": 29,
@@ -34247,7 +34247,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F938-1F3FB": {
+            "1F3FB": {
                 "unified": "1F938-1F3FB",
                 "image": "1f938-1f3fb.png",
                 "sheet_x": 29,
@@ -34259,7 +34259,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F938-1F3FC": {
+            "1F3FC": {
                 "unified": "1F938-1F3FC",
                 "image": "1f938-1f3fc.png",
                 "sheet_x": 29,
@@ -34271,7 +34271,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F938-1F3FD": {
+            "1F3FD": {
                 "unified": "1F938-1F3FD",
                 "image": "1f938-1f3fd.png",
                 "sheet_x": 29,
@@ -34283,7 +34283,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F938-1F3FE": {
+            "1F3FE": {
                 "unified": "1F938-1F3FE",
                 "image": "1f938-1f3fe.png",
                 "sheet_x": 29,
@@ -34295,7 +34295,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F938-1F3FF": {
+            "1F3FF": {
                 "unified": "1F938-1F3FF",
                 "image": "1f938-1f3ff.png",
                 "sheet_x": 29,
@@ -34337,7 +34337,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F939-1F3FB": {
+            "1F3FB": {
                 "unified": "1F939-1F3FB",
                 "image": "1f939-1f3fb.png",
                 "sheet_x": 29,
@@ -34349,7 +34349,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F939-1F3FC": {
+            "1F3FC": {
                 "unified": "1F939-1F3FC",
                 "image": "1f939-1f3fc.png",
                 "sheet_x": 29,
@@ -34361,7 +34361,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F939-1F3FD": {
+            "1F3FD": {
                 "unified": "1F939-1F3FD",
                 "image": "1f939-1f3fd.png",
                 "sheet_x": 29,
@@ -34373,7 +34373,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F939-1F3FE": {
+            "1F3FE": {
                 "unified": "1F939-1F3FE",
                 "image": "1f939-1f3fe.png",
                 "sheet_x": 29,
@@ -34385,7 +34385,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F939-1F3FF": {
+            "1F3FF": {
                 "unified": "1F939-1F3FF",
                 "image": "1f939-1f3ff.png",
                 "sheet_x": 29,
@@ -34483,7 +34483,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F93D-1F3FB": {
+            "1F3FB": {
                 "unified": "1F93D-1F3FB",
                 "image": "1f93d-1f3fb.png",
                 "sheet_x": 29,
@@ -34495,7 +34495,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93D-1F3FC": {
+            "1F3FC": {
                 "unified": "1F93D-1F3FC",
                 "image": "1f93d-1f3fc.png",
                 "sheet_x": 29,
@@ -34507,7 +34507,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93D-1F3FD": {
+            "1F3FD": {
                 "unified": "1F93D-1F3FD",
                 "image": "1f93d-1f3fd.png",
                 "sheet_x": 29,
@@ -34519,7 +34519,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93D-1F3FE": {
+            "1F3FE": {
                 "unified": "1F93D-1F3FE",
                 "image": "1f93d-1f3fe.png",
                 "sheet_x": 29,
@@ -34531,7 +34531,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93D-1F3FF": {
+            "1F3FF": {
                 "unified": "1F93D-1F3FF",
                 "image": "1f93d-1f3ff.png",
                 "sheet_x": 29,
@@ -34573,7 +34573,7 @@
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
-            "1F93E-1F3FB": {
+            "1F3FB": {
                 "unified": "1F93E-1F3FB",
                 "image": "1f93e-1f3fb.png",
                 "sheet_x": 29,
@@ -34585,7 +34585,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93E-1F3FC": {
+            "1F3FC": {
                 "unified": "1F93E-1F3FC",
                 "image": "1f93e-1f3fc.png",
                 "sheet_x": 29,
@@ -34597,7 +34597,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93E-1F3FD": {
+            "1F3FD": {
                 "unified": "1F93E-1F3FD",
                 "image": "1f93e-1f3fd.png",
                 "sheet_x": 30,
@@ -34609,7 +34609,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93E-1F3FE": {
+            "1F3FE": {
                 "unified": "1F93E-1F3FE",
                 "image": "1f93e-1f3fe.png",
                 "sheet_x": 30,
@@ -34621,7 +34621,7 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             },
-            "1F93E-1F3FF": {
+            "1F3FF": {
                 "unified": "1F93E-1F3FF",
                 "image": "1f93e-1f3ff.png",
                 "sheet_x": 30,
